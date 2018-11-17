@@ -8,6 +8,8 @@ function nowServing(katzDeliLine){
   if(katzDeliLine === 0){
     return "There is nobody waiting to be served!"
   } else {
-    firstInline = ;
-  } katzDeliLine.shift();
+    firstInline = (katzDeliLine[0]);
+  
+    
+  }katzDeliLine.shift();
 }
