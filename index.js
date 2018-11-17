@@ -24,6 +24,7 @@ function currentLine(katzDeliLine){
         lineList = "The line is currently: " + (i+1) + ". " + (katzDeliLine[i]);
       } else {
         lineList = lineList + ", " + (i+1) + ". " + (katzDeliLine[i]);
+      }
     }
   }
 }
