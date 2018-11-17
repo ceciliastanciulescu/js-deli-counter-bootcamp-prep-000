@@ -12,3 +12,5 @@ function nowServing(katzDeliLine){
     return ("Currently serving " + firstInLine + ".");
   }
 }
+
+function currentLine
