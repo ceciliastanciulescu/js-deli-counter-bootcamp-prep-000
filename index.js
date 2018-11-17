@@ -23,7 +23,7 @@ function currentLine(katzDeliLine){
       if(i === 0){
         lineList = "The line is currently: " + (i+1) + ". " + (katzDeliLine[i]);
       } else {
-        lineList = 
+        lineList = lineList + 
     }
     
   }
