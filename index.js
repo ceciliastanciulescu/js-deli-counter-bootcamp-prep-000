@@ -25,6 +25,5 @@ function currentLine(katzDeliLine){
       } else {
         lineList = lineList + ", " + (i+1) + ". " + (katzDeliLine[i]);
     }
-    
   }
 }
