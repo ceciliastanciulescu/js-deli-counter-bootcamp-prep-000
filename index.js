@@ -18,5 +18,6 @@ function currentLine(katzDeliLine){
     return ("The line is currently empty.");
   } else {
     katzDeliLine.toString();
+    return ("The line is currently: " + katzDeliLine + ".");
   }
 }
